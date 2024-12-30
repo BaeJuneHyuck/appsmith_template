@@ -23,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "bpfzv4y8sq",
-  "label": "Plate thickness",
+  "label": "pipe diameter",
   "labelAlignment": "left",
   "labelPosition": "Left",
   "labelStyle": "",
@@ -41,8 +41,9 @@
   "originalBottomRow": 18,
   "originalTopRow": 14,
   "parentColumnSpace": 13.30859375,
-  "parentId": "rh4r6at5dy",
+  "parentId": "t0jq49g29o",
   "parentRowSpace": 10,
+  "placeholderText": "25.4",
   "renderMode": "CANVAS",
   "resetOnSubmit": true,
   "responsiveBehavior": "fill",
@@ -51,6 +52,6 @@
   "topRow": 4,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
-  "widgetId": "6ypie6b6ub",
-  "widgetName": "Input1Copy1Copy1Copy1"
+  "widgetId": "a0zp03r4um",
+  "widgetName": "D_pipe"
 }

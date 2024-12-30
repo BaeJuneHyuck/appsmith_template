@@ -23,7 +23,12 @@
       "key": "groupButtons.groupButton3.buttonColor"
     }
   ],
-  "dynamicTriggerPathList": [],
+  "dynamicPropertyPathList": [],
+  "dynamicTriggerPathList": [
+    {
+      "key": "groupButtons.groupButton1.onClick"
+    }
+  ],
   "groupButtons": {
     "groupButton1": {
       "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
@@ -35,6 +40,7 @@
       "isVisible": true,
       "label": "분석요청",
       "menuItems": {},
+      "onClick": "{{Api1.run()}}",
       "placement": "CENTER",
       "widgetId": ""
     },

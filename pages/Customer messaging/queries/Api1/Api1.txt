@@ -1,0 +1,4 @@
+{
+  "project_name":{{input1}}
+  "isVisible": true 
+}

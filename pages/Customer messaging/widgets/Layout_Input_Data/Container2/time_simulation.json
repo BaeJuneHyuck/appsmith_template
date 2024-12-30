@@ -23,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "bpfzv4y8sq",
-  "label": "Density",
+  "label": "simulation time",
   "labelAlignment": "left",
   "labelPosition": "Left",
   "labelStyle": "",
@@ -41,8 +41,9 @@
   "originalBottomRow": 18,
   "originalTopRow": 14,
   "parentColumnSpace": 13.30859375,
-  "parentId": "rh4r6at5dy",
+  "parentId": "fomiq54gml",
   "parentRowSpace": 10,
+  "placeholderText": "3600",
   "renderMode": "CANVAS",
   "resetOnSubmit": true,
   "responsiveBehavior": "fill",
@@ -51,6 +52,6 @@
   "topRow": 4,
   "type": "INPUT_WIDGET_V2",
   "version": 2,
-  "widgetId": "fpepm7ys3k",
-  "widgetName": "Input1Copy1CopyCopyCopy2"
+  "widgetId": "6om082sa0x",
+  "widgetName": "time_simulation"
 }
