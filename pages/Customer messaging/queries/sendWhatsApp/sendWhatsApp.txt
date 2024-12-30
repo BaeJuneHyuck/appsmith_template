@@ -1,0 +1,1 @@
+{"Body":"{{Input1.text}}","Fom":"whatsapp:{{appsmith.store.whatsapp_number}}","PageSize":"2","TWILIO_ACCOUNT_SID":"{{appsmith.store.sid}}","To":"whatsapp:{{this.params.num1}}","command":"CREATE_MESSAGE"}

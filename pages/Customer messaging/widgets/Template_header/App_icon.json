@@ -1,0 +1,38 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 4,
+  "boxShadow": "none",
+  "buttonColor": "#fafafa",
+  "buttonVariant": "TERTIARY",
+  "displayName": "Icon Button",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "hideCard": false,
+  "iconName": "envelope",
+  "iconSVG": "/static/media/icon.1a0c634a.svg",
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "vjvwmgy6hf",
+  "leftColumn": 0,
+  "parentColumnSpace": 12.01953125,
+  "parentId": "8oi8bgnk48",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 4,
+  "searchTags": [
+    "click",
+    "submit"
+  ],
+  "topRow": 0,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "uj9y39u9da",
+  "widgetName": "App_icon"
+}
